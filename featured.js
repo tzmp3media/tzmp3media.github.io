@@ -11,7 +11,7 @@ random_img[5] = '<a href="https://www.tzmp3.co.tz/search?q=Beka Flavour"><img sr
 random_img[6] = '<a href="https://www.tzmp3.co.tz/search?q=Rayvanny"><img src="https://cloudup.com/files/iGQA6fjy0Gy/download"><h2>Rayvanny all New Songs Downloads 2019</h2></a>';
 random_img[7] = '<a href="https://www.tzmp3.co.tz/search?q=Ruby"><img src="https://cloudup.com/files/iUh6_CHvjLR/download"><h2>Ruby all New songs Collection 2019</h2></a>';
 random_img[8] = '<a href="https://www.tzmp3.co.tz/search?q=Alikiba"><img src="https://cloudup.com/files/iAB4ip6pSEa/download"><h2>Alikiba new Songs Downloads 2019</h2></a>';
-random_img[9] = '<a href="https://www.tzmp3.co.tz/search?q=Yemi Alade"><img src="https://cloudup.com/files/iAB4ip6pSEa/download"><h2>Yemi Alade latest Songs Downloads 2019</h2></a>';
+random_img[9] = '<a href="https://www.tzmp3.co.tz/search?q=Yemi Alade"><img src="https://cloudup.com/files/iU_zjeHpiJe/download"><h2>Yemi Alade latest Songs Downloads 2019</h2></a>';
 random_img[10] = '<a href="https://www.tzmp3.co.tz/search?q=Mbosso"><img src="https://2.bp.blogspot.com/-mEYpNF8JA4c/XabsI4NI30I/AAAAAAAAY9Y/dxm3HnMjy7cemZUIfwVqPQpg3TysgEfHgCLcBGAsYHQ/s1600/Mbosso.jpeg"><h2>Mbosso all Latest Songs downloads 2019</h2></a>';
 
 document.write(random_img[random_number]);
